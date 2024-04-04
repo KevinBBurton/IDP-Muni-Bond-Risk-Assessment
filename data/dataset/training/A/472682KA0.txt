@@ -1,0 +1,116 @@
+  each standby purchase 
+agreement will provide liquidity for the purchase of those variable rate demand warra nts which are 
+optionally tendered for purchase or are subject to mandatory purchase but not remarketed by the 
+remarketing agent.  the enforceability of each standby purchase agreement 
+may be limited by the bankruptcy, insolvency or reorganization of the bank. 
+ available commitment  
+the obligation of each bank is only to fund its available commitment under the standby purchase 
+agreement applicable to its respective subseries of the variable rate demand warrants.  the initial 
+principal commitment and the initial  interest commitment of each bank for each subseries of variable 
+rate demand warrants is as follows:  
+subseries  bank  initial principal 
+commitment*  initial interest 
+commitment*  
+series 2002 -c-2 jpmorgan chase bank  $73,700,000  $706,713  
+series 2002 -c-3 bank o f america, n.  $98,300,000  $942,603  
+series 2002 -c-4 the bank of nova 
+scotia  $73,700,000  $706,713  
+series 2002 -c-5 bayerische hypo - und 
+vereinsbank  $98,300,000  $942,603  
+series 2002 -c-6 société générale, new 
+york branch  $147,600,000  $1,415,343  
+series 200 2-c-7 regions bank  $49,100,000  $470,822  
+ 
+ 
+ purchase of tendered warrants by the bank  
+from time to time during the period prior to the expiration or earlier termination of the standby 
+purchase agreement (the "purchase period") each bank will purchase varia ble rate demand warrants of 
+its respective subseries (i) bearing interest at a daily rate or a weekly rate that have been optionally 
+tendered for purchase pursuant to the indenture under an optional tender but not remarketed or (ii) bearing 
+interest at a d aily rate or a weekly rate which are tendered pursuant to a mandatory tender under the 
+indenture and are not remarketed on the date specified for purchase (the "purchase date").  the price  to be paid by 
+the bank for such variable rate demand warrants will be equal to the aggregate principal amount of 
+such variable rate demand warrants plus interest accrued thereon to but not including the purchase date 
+calculated at the applicable interest rate for the variable rate demand warrants.  th e bank’s 
+commitment with respect to interest shall be equal to 35 days' interest on the principal amount of variable 
+rate demand warrants of such subseries outstanding (assuming an interest rate of 10% per ann um). 
+under certain circumstances described below, the obligation of a 
+bank to purchase variable rate demand warrants of its respective 
+subseries tendered by the owners thereof or subject to mandatory 
+purchase may be terminated or suspended without notice.  in such event, 
+sufficient funds may not be available to purchase variable rate demand 
+warrants of such subseries tendered by the owners thereof or subject to  35 mandatory purchase.  the xl capital insurance policy does not insure 
+payment of the purchase pric e of the variable rate demand warrants.  
+ events of default and remedies  
+the following constitute events of default under each standby purchase agreement:  
+for purposes of this section, the following terms have the meanings ascribed to them:  
+"bank warrant " means each variable rate demand warrant purchased by the bank pursuant to a 
+standby purchase agreement and held by or for the account of a bank warrantholder in accordance with 
+the terms of such standby purchase agreement, until purchased from or retained i n accordance with such 
+standby purchase agreement or redeemed in accordance with such standby purchase agreement or 
+otherwise.  
+"eligible warrants " means any variable rate demand warrants of a subseries outstanding under 
+and entitled to the benefits of the indenture (other than any such variable rate demand warrant which 
+(a) is a bank warrant, (b)  is owned by or on behalf of or is held for the account or for the benefit of the 
+county or any affiliate of the county, or (c)  is owned by or on behalf of or is he ld by the tender agent 
+for the account or for the benefit of a purchaser of such variable rate demand warrants pursuant to the 
+indenture); and which (i) bear interest at a daily rate or a weekly rate and are optionally tendered or 
+deemed tendered for purch ase pursuant to the indenture or (ii) bear interest at the daily rate or a weekly 
+rate and are required to be tendered for purchase pursuant to the indenture.  
+"relate d documents " means with respect to any subseries of variable rate demand warrants, 
+the standby purchase agreement, the variable rate demand warrants of such subseries, the indenture, 
+the remarketing agreement and the xl capital insurance policy and any exh ibits thereto, as the same 
+may be amended from time to time in accordance with their respective terms and the terms of such 
+standby purchase agreement.  
+"related insurance policy"  means with respect to any subseries of variable rate demand 
+warrants, any ins urance policy issued by xl capital which insures any swap or other interest rate hedge 
+applicable to such subseries of variable rate demand warrants.  
+each of the following events shall constitute an "event of default" under a standby purchase 
+agreement:  
+ (a) any principal or interest due on the respective subseries of variable rate demand 
+warrants (including bank warrants) is not paid by the county when due and such principal or 
+interest is not paid by xl capital when, as, and in the amounts required to be paid pursuant to the  36 terms of the xl capital insurance policy or the xl capital insurance policy is surrendered, 
+canceled, terminated, amended or modified in any material respect, or a new insurer is substituted 
+for xl capital as the insurer of the variabl e rate demand warrants without the prior written 
+consent of the liquidity agent; or  
+ (b) (i) any material provision of the xl capital insurance policy at any time for any 
+reason ceases to be valid and binding on xl capital in accordance with the terms of t he xl 
+capital insurance policy or is declared to be null and void by a court or other governmental 
+agency of appropriate jurisdiction, (ii)  the validity or enforceability thereof is contested by xl 
+capital or any governmental agency or authority of appropr iate jurisdiction, or (iii) xl capital 
+denies that it has any or further liability or obligation under the xl capital insurance policy; or  
+ (c) a proceeding is instituted in a court having jurisdiction in the premises seeking an 
+order for relief, rehabilit ation, reorganization, conservation, liquidation or dissolution in respect 
+to xl capital or for any substantial part of its property under any applicable bankruptcy, 
+insolvency or other similar law now or hereafter in effect, or for the appointment of a re ceiver, 
+liquidator, assignee, custodian, trustee or sequestrator (or other similar official) and such 
+proceeding is not terminated for a period of 30 consecutive days or such court enters an order 
+granting the relief sought in such proceeding or xl capital  shall institute or take any corporate 
+action authorizing the institution of any such legal proceeding; or xl capital shall become 
+insolvent or unable to pay its debts as they mature or claims under any of its insurance policies as 
+such claims are made, sh all commence a voluntary case under any applicable bankruptcy, 
+insolvency or other similar law now or hereafter in effect, shall consent to the entry of an order 
+for relief in an involuntary case under any such law or shall consent to the appointment of or  
+taking possession by a receiver, liquidator, assignee, trustee, custodian or sequestrator (or other 
+similar official) of xl capital or for any substantial part of its property, or shall make a general 
+assignment for the benefit of creditors, or shall fail  generally to pay its debts or claims as they 
+become due, or shall take any corporate action in furtherance of any of the foregoing; or  
+ (d) xl capital shall default in any payment or payments of amounts payable by it 
+under any municipal bond insurance pol icy or policies (other than the xl capital insurance 
+policy) or any financial guaranty insurance policy or policies (excluding any swap insurance 
+policy other than a related insurance policy), when due and such default shall continue for a 
+period of 5  days (it being understood by the bank that default, for the purposes of this paragraph, 
+shall not mean a situation whereby xl capital contests in good faith its liability under any such 
+policy or policies in light of the claim or claims made thereunder); or  
+ (e) nonpayment of any facility fees payable under the standby purchase agreement 
+within five business days after the county has received notice from the liquidity agent that the 
+same were not paid when due or nonpayment of any default interest under the sta ndby purchase 
+agreement; or  
+ (f) nonpayment of any other amount when due under the standby purchase 
+agreement, if such failure to pay when due shall continue for five business days after written 
+notice thereof to the county by the liquidity agent; or  
+ (g) any representation or warranty made by the county under or in connection with 
+the standby purchase agreement shall prove to be untrue in any material respect on the date as of 
+which it was made; or  
+ (h) the county shall have commenced a voluntary case or o ther proceeding seeking 
+liquidation, reorganization or other relief with respect to itself or its debts under any bankruptcy, . length: 9493

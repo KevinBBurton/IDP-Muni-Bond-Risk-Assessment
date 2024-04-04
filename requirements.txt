@@ -1,0 +1,9 @@
+pandas
+odfpy
+PyPDF2
+tensorflow
+tensorflow_hub
+tensorflow_text
+tf-models-official
+PyCryptodome # needed for encrypted CUSIPs
+pydot
